@@ -6,3 +6,6 @@ def add(num1,num2):
     """Adds two numbers provided as arguments
     """
     return num1 + num2
+    
+def divide(num1,num2):
+    return num1/num2
